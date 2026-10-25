@@ -1,0 +1,13 @@
+{
+  "name": "polska-vod-addon",
+  "version": "2.0.0",
+  "description": "Stremio: katalogi polskich platform VOD + rekomendacje Gemini AI z całego świata",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
